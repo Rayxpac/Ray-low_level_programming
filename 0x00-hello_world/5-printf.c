@@ -2,7 +2,7 @@
 
 /**
  *  main - "prints the phrase with proper grammar,
- *  but the outcome is a piece of art,"
+ *  but the outcome is a piece of art," follow by the new line
  *  Return: Alway 0 
  */
 
