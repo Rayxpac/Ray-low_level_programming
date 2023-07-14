@@ -1,11 +1,10 @@
 #include <stdio.h>
 
-
 /**
  *  main - "prints the phrase with proper grammar,
  *  but the outcome is a piece of art,"
  *  Return: Alway 0 
-  */
+ */
 
 int main(void)
 
