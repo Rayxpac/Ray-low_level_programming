@@ -1,6 +1,7 @@
 #include <stdio.h>
+
 /**
- * entry point that prints alphabet in lowcase and uppercase
+ * entry point that prints alphabet in lowcase and uppercase.
  * always a (success)
  */
 int main(void)
