@@ -21,5 +21,4 @@ ch++;
 _putchar('\n');
 i++;
 }
-return (0);
 }
