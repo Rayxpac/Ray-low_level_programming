@@ -18,11 +18,9 @@ printf("%ld", term3);
 term1 = term2;
 term2 = term3;
 term3 = term1 + term2;
-if (i < 50)
-{													
+if (i < 50)												
 printf(", ");
 }
 printf("\n");
 return (0);
-}
 }
