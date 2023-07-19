@@ -3,7 +3,7 @@
  *  * times_table - Entry point
  *   * Description: 9x9 multiplication table
  *    * Return: void
- *     */
+ */
 
 void times_table(void)
 {
