@@ -8,10 +8,13 @@
 int main(void)
 {
 
-int _putchar('_');
-int _putchar("p");
-int _putchar("t");
-int _putchar("c");
-int _putchar("\n");
+_putchar("_");
+_putchar("p");
+_putchar("t");
+_putchar("c");
+_putchar("h");
+_putchar("a");
+_putchar("r");
+_putchar("\n");
 return (0);
 }
