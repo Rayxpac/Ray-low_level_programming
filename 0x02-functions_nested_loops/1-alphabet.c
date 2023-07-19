@@ -4,7 +4,7 @@
  *  * print_alphabet - Entry point
  *   * Description: print the alphabet in lowercase
  *    * Return: void
- *     */
+     */
 
 void print_alphabet(void)
 {
