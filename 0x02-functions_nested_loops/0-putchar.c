@@ -1,15 +1,17 @@
-#include <stdio.h>
+#include "main.h"
 /**
  * entry point
+ * print _putchar
  * how to print  0-putchar.c
+ * return 0
  */
 int main(void)
 {
-int a = 0;
-while(a < 10)
-{
-putchar(a);
-}
-printf("\n");
-return 0;
+
+_putchar('_');
+_putchar("p");
+_putchar("t");
+_putchar("c");
+_putchar("\n");
+return (0);
 }
