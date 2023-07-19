@@ -4,7 +4,7 @@
  *  * print_alphabet_x10 - Entry point
  *   * Description: print the alphabet in lower case 10 times
  *    * Return: void
-     */
+ */
 
 void print_alphabet_x10(void)
 {
@@ -22,4 +22,5 @@ ch++;
 _putchar('\n');
 i++
 }
+return 0;
 }
