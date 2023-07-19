@@ -1,18 +1,20 @@
-#include "main.h"
+nclude "main.h"
+
 /**
- * entry point
- * print _putchar
- * how to print  0-putchar.c
- * return 0
- */
+ *  * main - Entry point
+ *   * Description: prints _putchar, followed by a new line
+ *    * Return: Always 0 (success)
+    */
+
 int main(void)
 {
-_putchar("p");
-_putchar("t");
-_putchar("c");
-_putchar("h");
-_putchar("a");
-_putchar("r");
-_putchar("\n");
+char k[8] = "_putchar";
+int i =0;
+while (i < 8)
+{
+_putchar(k[i]);
+i++;
+}
+_putchar('\n');
 return (0);
 }
