@@ -4,7 +4,7 @@
  *   * @n: carrier variable
  *    * Description: nxn multiplication table
  *     * Return: void
- *      */
+ */
 void print_times_table(int n)
 {
 int r, c, val;
