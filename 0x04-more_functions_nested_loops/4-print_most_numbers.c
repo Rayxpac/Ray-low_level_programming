@@ -7,17 +7,17 @@
  */
 void print_most_numbers(void)
 {
-int var = 0;
+int i = 0;
 
-while (var < 10)
+while (i < 10)
 {
 {
-if (var != 2 && var != 4)
+if (i != 2 && i != 4)
 {
-_putchar(var + '0');
+_putchar(i + '0');
 }
 }
-var++;
+i++;
 }
 _putchar('\n');
 }
