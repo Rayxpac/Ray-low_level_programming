@@ -6,7 +6,7 @@
  *    * @s: the string to print
  *     *
  *      * Return: void
- *       */
+ */
 
 void _print_rev_recursion(char *s)
 {
