@@ -10,7 +10,7 @@
 
 int _sqrt_recursion(int n)
 {
-return (sqrt(n, 1));
+return (sq(n, 1));
 }
 
 /**
@@ -20,7 +20,7 @@ return (sqrt(n, 1));
  *     * Return: sqrt
  */
 
-int sqrt(int n, int base)
+int sq(int n, int base)
 {
 if (base * base == n)
 return (base);
